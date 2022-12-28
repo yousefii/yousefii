@@ -10,10 +10,9 @@ src="https://img.shields.io/github/followers/yousefii?logo=github&style=for-the-
 
 [![Github](https://img.shields.io/github/followers/yousefii?label=Follow&style=social)](https://github.com/yousefii)
 
-- 💻 
-- 🤔
-- 🌱 
-- 📫 
+- 💻  I'm a network engineer and have been working in the IT industry for about 9 years.
+- 🌱  I share here some of my projects related to the Computer Networks.
+- 📫  How to reach me: yousefi.mtz@gmail.com
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefii&show_icons=true&locale=en&layout=compact" alt="yousefii" />
