@@ -17,7 +17,7 @@ src="https://img.shields.io/github/followers/yousefii?logo=github&style=for-the-
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefii&show_icons=true&locale=en&layout=compact" alt="yousefii" />
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=yousefii&" alt="yousefii" />
-  <img  src="https://github.com/000saber000/000saber000/blob/main/resources/img/grid-snake.svg"
+
        alt="snake" /></a>
 </div>
 
